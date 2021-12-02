@@ -11,5 +11,11 @@
 		"address": "8HnEBijE19XDWVwDZNfGvm3PaFz7DHgr4L9JBc5a2wKC",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "9dwDXftdKpBwf4Zovybveth7sfsA8PPdFTyecRCVV6NB"
+	},
+	{
+		"name": "FLF/SOL",
+		"address": "3WeuQm4ZEdC4agkXytbqEQV9pC2k1Z7v2Fv4g9RuoGJr",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "6KLYzG7qv64sbnf8FH13MSLWFRT4qM1xcviNvqvtKkUr"
 	}
 ]
