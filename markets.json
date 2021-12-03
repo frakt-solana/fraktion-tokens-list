@@ -17,5 +17,11 @@
 		"address": "3WeuQm4ZEdC4agkXytbqEQV9pC2k1Z7v2Fv4g9RuoGJr",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "6KLYzG7qv64sbnf8FH13MSLWFRT4qM1xcviNvqvtKkUr"
+	},
+	{
+		"name": "ZTB/SOL",
+		"address": "9FRqMB36dsrKVr78auFnMrXk2rWWAzcEpsXPf3Fj3kd3",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "FXesQTFmN2Lr4M8ScxBTpe2k3M6HjRAsUUbZXubQ3U92"
 	}
 ]
