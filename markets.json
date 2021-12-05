@@ -23,5 +23,11 @@
 		"address": "9FRqMB36dsrKVr78auFnMrXk2rWWAzcEpsXPf3Fj3kd3",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "FXesQTFmN2Lr4M8ScxBTpe2k3M6HjRAsUUbZXubQ3U92"
+	},
+	{
+		"name": "NAUT/SOL",
+		"address": "oY1PrgFjdKXJtSxaGPfykRvpcGpqsDFqLWVcNHrZPrV",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "9nNWeGSY4joqgS4xJTkfNWbfTSJRQ7CSrx7tY4KKB1Rz"
 	}
 ]
