@@ -29,5 +29,11 @@
 		"address": "oY1PrgFjdKXJtSxaGPfykRvpcGpqsDFqLWVcNHrZPrV",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "9nNWeGSY4joqgS4xJTkfNWbfTSJRQ7CSrx7tY4KKB1Rz"
+	},
+	{
+		"name": "Gen/SOL",
+		"address": "FPSwd4YUkk3i7bfgNKWse6e5FVKhnB1CjGtoDgKNHPCt",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "7LZomBrxbN88Gd44d9GbAi6d4eEtRP8SST1hmXuyKW2x"
 	}
 ]
