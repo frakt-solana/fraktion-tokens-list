@@ -41,5 +41,11 @@
 		"address": "xhEYoNpaipa1966JdN89zK4a3hEFWiireJT1TZEtKEB",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "6j28waP2NyoCBJrrVNHZuEzLDL25DXdNxMFsMNMxYht7"
+	},
+	{
+		"name": "DALI/SOL",
+		"address": "2yoDhmTVdH9kc7v6pr4bWgUEzcd9pdF2tsWtSDhSeYPf",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "ESrrTHaNKiC9saxaudX2j9iCM9r8qHRcLSrW5ypQ3W64"
 	}
 ]
