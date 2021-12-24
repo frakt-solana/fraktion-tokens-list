@@ -47,5 +47,11 @@
 		"address": "2yoDhmTVdH9kc7v6pr4bWgUEzcd9pdF2tsWtSDhSeYPf",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "ESrrTHaNKiC9saxaudX2j9iCM9r8qHRcLSrW5ypQ3W64"
+	},
+	{
+		"name": "TLFU/SOL",
+		"address": "AXxn7UY5g4FVUaU4UujLY5Zq89BnuXLdguKFrh6h6Bgg",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "AicYY1hFCAcFt5ptuBi2tWgisH73hoCN8TG2Q43wCF2T"
 	}
 ]
