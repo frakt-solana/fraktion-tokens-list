@@ -65,5 +65,11 @@
 		"address": "CHjzcLQSjGE4rb4KfWhpa3iRUf9PDxFgYJrNSLaLQDWc",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "7osS84AkAG2TCrUvrE1wfKwfAqWTCrHnaCsrsyVJd5pY"
+	},
+	{
+		"name": "LIT/SOL",
+		"address": "7Ykx2F1LjxTQUqEesGC97S7XvEUnkzvYbQcExKJFx46q",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "9jnLKJfSovke1oABb1jG5E1FFDAZ3FQxe6nRdx9pV6Cx"
 	}
 ]
