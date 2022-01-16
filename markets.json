@@ -71,5 +71,11 @@
 		"address": "7Ykx2F1LjxTQUqEesGC97S7XvEUnkzvYbQcExKJFx46q",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "9jnLKJfSovke1oABb1jG5E1FFDAZ3FQxe6nRdx9pV6Cx"
+	},
+	{
+		"name": "Dino/SOL",
+		"address": "kErk9SGmh22jR8aVq8ScYkPrSK8vaEun6Bk2QzpkuPc",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "FUNHP94B46a486h5RSv46aeWUkeM5goTUuM5mVh4L6Qr"
 	}
 ]
