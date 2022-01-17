@@ -77,5 +77,11 @@
 		"address": "kErk9SGmh22jR8aVq8ScYkPrSK8vaEun6Bk2QzpkuPc",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "FUNHP94B46a486h5RSv46aeWUkeM5goTUuM5mVh4L6Qr"
+	},
+	{
+		"name": "SPIF/SOL",
+		"address": "77Hp929Mu9MF6UPotexN97J2AcMNurkjKxVXXAHUyi8p",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW"
 	}
 ]
