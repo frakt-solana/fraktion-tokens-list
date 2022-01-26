@@ -83,5 +83,11 @@
 		"address": "77Hp929Mu9MF6UPotexN97J2AcMNurkjKxVXXAHUyi8p",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW"
+	},
+	{
+		"name": "BMINUS/SOL",
+		"address": "3abMGQofw6nheHt3DZQa3yRT7bbZmQWu1qxHasQWotDt",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "GM4CTEsNsU5Kg22JNKkANTannrBU9Ah6SNa3BcyBA6Kj"
 	}
 ]
