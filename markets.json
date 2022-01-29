@@ -89,5 +89,11 @@
 		"address": "3abMGQofw6nheHt3DZQa3yRT7bbZmQWu1qxHasQWotDt",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "GM4CTEsNsU5Kg22JNKkANTannrBU9Ah6SNa3BcyBA6Kj"
+	},
+	{
+		"name": "WOJK/SOL",
+		"address": "GL2nP8Ri9uk7ssDHgsLtp5SqZDbJ3GBqDurYxiMDJc5Z",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "3NMPzSChKKDzcfy1KP8zYoCaEdSMjMyUoL5bNq38kgAj"
 	}
 ]
