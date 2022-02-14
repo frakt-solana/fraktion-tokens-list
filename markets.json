@@ -95,5 +95,11 @@
 		"address": "GL2nP8Ri9uk7ssDHgsLtp5SqZDbJ3GBqDurYxiMDJc5Z",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "3NMPzSChKKDzcfy1KP8zYoCaEdSMjMyUoL5bNq38kgAj"
+	},
+	{
+		"name": "BSB/SOL",
+		"address": "5Wq7wS4eCtuaikgrazL2BpeKcNZ3EHxmWAjL4J25Njx",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "4keSJKP7zC3TvSQJQzYKgkfEWg4MPitMtPTh3EVgeBsv"
 	}
 ]
