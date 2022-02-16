@@ -101,5 +101,11 @@
 		"address": "5Wq7wS4eCtuaikgrazL2BpeKcNZ3EHxmWAjL4J25Njx",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "4keSJKP7zC3TvSQJQzYKgkfEWg4MPitMtPTh3EVgeBsv"
+	},
+	{
+		"name": "FEAR/SOL",
+		"address": "FCTxysCYMEUDsr29rkviYQvzepLGUVDm2DYDWmfSRh4G",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "2pqRgpTLSJRgqBaBAQBBAqfLsdjqWic5bi6S9UJazyaT"
 	}
 ]
