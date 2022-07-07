@@ -107,5 +107,11 @@
 		"address": "FCTxysCYMEUDsr29rkviYQvzepLGUVDm2DYDWmfSRh4G",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "2pqRgpTLSJRgqBaBAQBBAqfLsdjqWic5bi6S9UJazyaT"
+	},
+	{
+		"name": "LOT/SOL",
+		"address": "B252pNAux9gVUyzzyACJ2N8LxAib8AsoaDTtGf4iPEAs",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "LoTrcDXVtmu7CPaxnsVifJD8wwcEr4fhxKykrAQDKWE"
 	}
 ]
