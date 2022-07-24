@@ -113,5 +113,11 @@
 		"address": "B252pNAux9gVUyzzyACJ2N8LxAib8AsoaDTtGf4iPEAs",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "LoTrcDXVtmu7CPaxnsVifJD8wwcEr4fhxKykrAQDKWE"
+	},
+	{
+		"name": "SOL/SOL",
+		"address": "SUNHgmeDmJTe3BeteBjgPu6gbE7UvHD5B89tsBnu5f5",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "So11111111111111111111111111111111111111112"
 	}
 ]
