@@ -125,5 +125,11 @@
 		"address": "9Qoy9NP31jgRm7Z3i3GD73MuDxQRC56pUmUcbrCQDmFy",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
 		"baseMint": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu"
+	},
+	{
+		"name": "Nom/SOL",
+		"address": "B3zNM5yfqLu4r4XH2AMjDn24qJhzMFR6YXWoWFmqCvCG",
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+		"baseMint": "U3iWnWUqdbn1SXAn6CrmuQoFCYBC3vRb2vmM7CMPEnj"
 	}
 ]
